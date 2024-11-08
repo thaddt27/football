@@ -1,0 +1,1794 @@
+{
+  "Lions": [
+    {
+      "Season": "2017",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 3,
+      "Total_Losses": 13,
+      "Win_Percentage": "19%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 3,
+      "Total_Losses": 14,
+      "Win_Percentage": "18%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 14,
+      "Total_Losses": 6,
+      "Win_Percentage": "70%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 7,
+      "Total_Losses": 1,
+      "Win_Percentage": "88%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 56,
+      "Total_Losses": 70,
+      "Win_Percentage": "44%"
+    }
+  ],
+  "Packers": [
+    {
+      "Season": "2017",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 14,
+      "Total_Losses": 4,
+      "Win_Percentage": "78%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 14,
+      "Total_Losses": 4,
+      "Win_Percentage": "78%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 13,
+      "Total_Losses": 5,
+      "Win_Percentage": "72%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 10,
+      "Total_Losses": 9,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 3,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 78,
+      "Total_Losses": 53,
+      "Win_Percentage": "60%"
+    }
+  ],
+  "Bears": [
+    {
+      "Season": "2017",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 12,
+      "Total_Losses": 5,
+      "Win_Percentage": "71%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 6,
+      "Total_Losses": 11,
+      "Win_Percentage": "35%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 3,
+      "Total_Losses": 14,
+      "Win_Percentage": "18%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 4,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 53,
+      "Total_Losses": 72,
+      "Win_Percentage": "42%"
+    }
+  ],
+  "Vikings": [
+    {
+      "Season": "2017",
+      "Total_Wins": 14,
+      "Total_Losses": 4,
+      "Win_Percentage": "78%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 13,
+      "Total_Losses": 5,
+      "Win_Percentage": "72%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 2,
+      "Win_Percentage": "75%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 74,
+      "Total_Losses": 54,
+      "Win_Percentage": "58%"
+    }
+  ],
+  "Cowboys": [
+    {
+      "Season": "2017",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 13,
+      "Total_Losses": 6,
+      "Win_Percentage": "68%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 3,
+      "Total_Losses": 5,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 74,
+      "Total_Losses": 55,
+      "Win_Percentage": "57%"
+    }
+  ],
+  "Giants": [
+    {
+      "Season": "2017",
+      "Total_Wins": 3,
+      "Total_Losses": 13,
+      "Win_Percentage": "19%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 10,
+      "Total_Losses": 9,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 6,
+      "Total_Losses": 11,
+      "Win_Percentage": "35%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 40,
+      "Total_Losses": 86,
+      "Win_Percentage": "32%"
+    }
+  ],
+  "Eagles": [
+    {
+      "Season": "2017",
+      "Total_Wins": 16,
+      "Total_Losses": 3,
+      "Win_Percentage": "84%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 9,
+      "Total_Losses": 9,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 16,
+      "Total_Losses": 4,
+      "Win_Percentage": "80%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 2,
+      "Win_Percentage": "75%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 81,
+      "Total_Losses": 53,
+      "Win_Percentage": "60%"
+    }
+  ],
+  "Commanders": [
+    {
+      "Season": "2017",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 3,
+      "Total_Losses": 13,
+      "Win_Percentage": "19%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 7,
+      "Total_Losses": 2,
+      "Win_Percentage": "78%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 50,
+      "Total_Losses": 75,
+      "Win_Percentage": "40%"
+    }
+  ],
+  "49ers": [
+    {
+      "Season": "2017",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 15,
+      "Total_Losses": 4,
+      "Win_Percentage": "79%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 12,
+      "Total_Losses": 8,
+      "Win_Percentage": "60%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 15,
+      "Total_Losses": 5,
+      "Win_Percentage": "75%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 14,
+      "Total_Losses": 6,
+      "Win_Percentage": "70%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 4,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 76,
+      "Total_Losses": 59,
+      "Win_Percentage": "56%"
+    }
+  ],
+  "Seahawks": [
+    {
+      "Season": "2017",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 10,
+      "Total_Losses": 7,
+      "Win_Percentage": "59%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 12,
+      "Total_Losses": 5,
+      "Win_Percentage": "71%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 9,
+      "Total_Losses": 9,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 72,
+      "Total_Losses": 57,
+      "Win_Percentage": "56%"
+    }
+  ],
+  "Rams": [
+    {
+      "Season": "2017",
+      "Total_Wins": 11,
+      "Total_Losses": 6,
+      "Win_Percentage": "65%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 15,
+      "Total_Losses": 4,
+      "Win_Percentage": "79%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 16,
+      "Total_Losses": 5,
+      "Win_Percentage": "76%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 5,
+      "Total_Losses": 12,
+      "Win_Percentage": "29%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 4,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 81,
+      "Total_Losses": 53,
+      "Win_Percentage": "60%"
+    }
+  ],
+  "Cardinals": [
+    {
+      "Season": "2017",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 3,
+      "Total_Losses": 13,
+      "Win_Percentage": "19%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 5,
+      "Total_Losses": 4,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 48,
+      "Total_Losses": 77,
+      "Win_Percentage": "38%"
+    }
+  ],
+  "Saints": [
+    {
+      "Season": "2017",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 14,
+      "Total_Losses": 4,
+      "Win_Percentage": "78%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 13,
+      "Total_Losses": 4,
+      "Win_Percentage": "76%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 13,
+      "Total_Losses": 5,
+      "Win_Percentage": "72%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 79,
+      "Total_Losses": 52,
+      "Win_Percentage": "60%"
+    }
+  ],
+  "Falcons": [
+    {
+      "Season": "2017",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 3,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 56,
+      "Total_Losses": 70,
+      "Win_Percentage": "44%"
+    }
+  ],
+  "Panthers": [
+    {
+      "Season": "2017",
+      "Total_Wins": 11,
+      "Total_Losses": 6,
+      "Win_Percentage": "65%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 5,
+      "Total_Losses": 12,
+      "Win_Percentage": "29%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 2,
+      "Total_Losses": 15,
+      "Win_Percentage": "12%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 44,
+      "Total_Losses": 81,
+      "Win_Percentage": "35%"
+    }
+  ],
+  "Buccaneers": [
+    {
+      "Season": "2017",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 15,
+      "Total_Losses": 5,
+      "Win_Percentage": "75%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 14,
+      "Total_Losses": 5,
+      "Win_Percentage": "74%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 8,
+      "Total_Losses": 10,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 10,
+      "Total_Losses": 9,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 68,
+      "Total_Losses": 65,
+      "Win_Percentage": "51%"
+    }
+  ],
+  "Bills": [
+    {
+      "Season": "2017",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 10,
+      "Total_Losses": 7,
+      "Win_Percentage": "59%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 15,
+      "Total_Losses": 4,
+      "Win_Percentage": "79%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 12,
+      "Total_Losses": 7,
+      "Win_Percentage": "63%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 14,
+      "Total_Losses": 5,
+      "Win_Percentage": "74%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 12,
+      "Total_Losses": 7,
+      "Win_Percentage": "63%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 7,
+      "Total_Losses": 2,
+      "Win_Percentage": "78%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 85,
+      "Total_Losses": 50,
+      "Win_Percentage": "63%"
+    }
+  ],
+  "Dolphins": [
+    {
+      "Season": "2017",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 10,
+      "Total_Losses": 6,
+      "Win_Percentage": "62%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 9,
+      "Total_Losses": 9,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 6,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 59,
+      "Total_Losses": 66,
+      "Win_Percentage": "47%"
+    }
+  ],
+  "Patriots": [
+    {
+      "Season": "2017",
+      "Total_Wins": 15,
+      "Total_Losses": 4,
+      "Win_Percentage": "79%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 14,
+      "Total_Losses": 5,
+      "Win_Percentage": "74%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 12,
+      "Total_Losses": 5,
+      "Win_Percentage": "71%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 72,
+      "Total_Losses": 60,
+      "Win_Percentage": "55%"
+    }
+  ],
+  "Jets": [
+    {
+      "Season": "2017",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 2,
+      "Total_Losses": 14,
+      "Win_Percentage": "12%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 3,
+      "Total_Losses": 6,
+      "Win_Percentage": "33%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 39,
+      "Total_Losses": 85,
+      "Win_Percentage": "31%"
+    }
+  ],
+  "Ravens": [
+    {
+      "Season": "2017",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 10,
+      "Total_Losses": 7,
+      "Win_Percentage": "59%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 14,
+      "Total_Losses": 3,
+      "Win_Percentage": "82%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 14,
+      "Total_Losses": 5,
+      "Win_Percentage": "74%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 3,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 83,
+      "Total_Losses": 48,
+      "Win_Percentage": "63%"
+    }
+  ],
+  "Steelers": [
+    {
+      "Season": "2017",
+      "Total_Wins": 13,
+      "Total_Losses": 4,
+      "Win_Percentage": "76%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 12,
+      "Total_Losses": 5,
+      "Win_Percentage": "71%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 9,
+      "Total_Losses": 9,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 2,
+      "Win_Percentage": "75%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 76,
+      "Total_Losses": 51,
+      "Win_Percentage": "60%"
+    }
+  ],
+  "Bengals": [
+    {
+      "Season": "2017",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 2,
+      "Total_Losses": 14,
+      "Win_Percentage": "12%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 13,
+      "Total_Losses": 8,
+      "Win_Percentage": "62%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 14,
+      "Total_Losses": 6,
+      "Win_Percentage": "70%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 59,
+      "Total_Losses": 72,
+      "Win_Percentage": "45%"
+    }
+  ],
+  "Browns": [
+    {
+      "Season": "2017",
+      "Total_Wins": 0,
+      "Total_Losses": 16,
+      "Win_Percentage": "0%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 53,
+      "Total_Losses": 74,
+      "Win_Percentage": "42%"
+    }
+  ],
+  "Texans": [
+    {
+      "Season": "2017",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 11,
+      "Total_Losses": 6,
+      "Win_Percentage": "65%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 3,
+      "Total_Losses": 14,
+      "Win_Percentage": "18%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 11,
+      "Total_Losses": 8,
+      "Win_Percentage": "58%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 6,
+      "Total_Losses": 3,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 54,
+      "Total_Losses": 75,
+      "Win_Percentage": "42%"
+    }
+  ],
+  "Jaguars": [
+    {
+      "Season": "2017",
+      "Total_Wins": 12,
+      "Total_Losses": 7,
+      "Win_Percentage": "63%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 1,
+      "Total_Losses": 15,
+      "Win_Percentage": "6%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 3,
+      "Total_Losses": 14,
+      "Win_Percentage": "18%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 10,
+      "Total_Losses": 9,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 48,
+      "Total_Losses": 81,
+      "Win_Percentage": "37%"
+    }
+  ],
+  "Titans": [
+    {
+      "Season": "2017",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 11,
+      "Total_Losses": 8,
+      "Win_Percentage": "58%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 11,
+      "Total_Losses": 6,
+      "Win_Percentage": "65%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 12,
+      "Total_Losses": 6,
+      "Win_Percentage": "67%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 6,
+      "Total_Losses": 11,
+      "Win_Percentage": "35%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 6,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 68,
+      "Total_Losses": 62,
+      "Win_Percentage": "52%"
+    }
+  ],
+  "Colts": [
+    {
+      "Season": "2017",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 11,
+      "Total_Losses": 7,
+      "Win_Percentage": "61%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 11,
+      "Total_Losses": 6,
+      "Win_Percentage": "65%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 4,
+      "Total_Losses": 13,
+      "Win_Percentage": "24%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 4,
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 59,
+      "Total_Losses": 68,
+      "Win_Percentage": "46%"
+    }
+  ],
+  "Chargers": [
+    {
+      "Season": "2017",
+      "Total_Wins": 9,
+      "Total_Losses": 7,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 13,
+      "Total_Losses": 5,
+      "Win_Percentage": "72%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 9,
+      "Total_Losses": 8,
+      "Win_Percentage": "53%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 5,
+      "Total_Losses": 12,
+      "Win_Percentage": "29%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 5,
+      "Total_Losses": 3,
+      "Win_Percentage": "62%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 63,
+      "Total_Losses": 63,
+      "Win_Percentage": "50%"
+    }
+  ],
+  "Raiders": [
+    {
+      "Season": "2017",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 4,
+      "Total_Losses": 12,
+      "Win_Percentage": "25%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 8,
+      "Total_Losses": 8,
+      "Win_Percentage": "50%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 10,
+      "Total_Losses": 8,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 6,
+      "Total_Losses": 11,
+      "Win_Percentage": "35%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 2,
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 51,
+      "Total_Losses": 74,
+      "Win_Percentage": "41%"
+    }
+  ],
+  "Chiefs": [
+    {
+      "Season": "2017",
+      "Total_Wins": 10,
+      "Total_Losses": 7,
+      "Win_Percentage": "59%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 13,
+      "Total_Losses": 5,
+      "Win_Percentage": "72%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 15,
+      "Total_Losses": 4,
+      "Win_Percentage": "79%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 16,
+      "Total_Losses": 3,
+      "Win_Percentage": "84%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 14,
+      "Total_Losses": 6,
+      "Win_Percentage": "70%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 17,
+      "Total_Losses": 3,
+      "Win_Percentage": "85%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 15,
+      "Total_Losses": 6,
+      "Win_Percentage": "71%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 8,
+      "Total_Losses": 0,
+      "Win_Percentage": "100%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 108,
+      "Total_Losses": 34,
+      "Win_Percentage": "76%"
+    }
+  ],
+  "Broncos": [
+    {
+      "Season": "2017",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2018",
+      "Total_Wins": 6,
+      "Total_Losses": 10,
+      "Win_Percentage": "38%"
+    },
+    {
+      "Season": "2019",
+      "Total_Wins": 7,
+      "Total_Losses": 9,
+      "Win_Percentage": "44%"
+    },
+    {
+      "Season": "2020",
+      "Total_Wins": 5,
+      "Total_Losses": 11,
+      "Win_Percentage": "31%"
+    },
+    {
+      "Season": "2021",
+      "Total_Wins": 7,
+      "Total_Losses": 10,
+      "Win_Percentage": "41%"
+    },
+    {
+      "Season": "2022",
+      "Total_Wins": 5,
+      "Total_Losses": 12,
+      "Win_Percentage": "29%"
+    },
+    {
+      "Season": "2023",
+      "Total_Wins": 8,
+      "Total_Losses": 9,
+      "Win_Percentage": "47%"
+    },
+    {
+      "Season": "2024",
+      "Total_Wins": 5,
+      "Total_Losses": 4,
+      "Win_Percentage": "56%"
+    },
+    {
+      "Season": "Total",
+      "Total_Wins": 48,
+      "Total_Losses": 76,
+      "Win_Percentage": "39%"
+    }
+  ]
+}
