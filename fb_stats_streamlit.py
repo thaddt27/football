@@ -134,7 +134,9 @@ def main():
         team_data = all_team_stats[team_name]
         df = pd.DataFrame(team_data)
         st.write(f"Wins, Losses, and Win Percentage by year for {team_name}")
-        st.dataframe(df)
+    
+         # Display the DataFrame without the index column
+        st.dataframe(df, use_container_width=True, hide_index=True)
 
     # Second column of the second row: Prepare and display the chart
     with col5:
