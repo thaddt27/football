@@ -136,7 +136,7 @@ def main():
         st.write(f"Wins, Losses, and Win Percentage by year for {team_name}")
     
          # Display the DataFrame without the index column
-        st.dataframe(df, use_container_width=True, hide_index=False)
+        st.dataframe(df, use_container_width=True, hide_index=True)
 
     # Second column of the second row: Prepare and display the chart
     with col5:
