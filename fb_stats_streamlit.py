@@ -7,6 +7,7 @@ import json
 import requests
 from io import BytesIO
 from streamlit_extras.row import row
+import seaborn as sns
 
 # Load the service account credentials from Streamlit secrets
 service_account_info = st.secrets["SERVICE_ACCOUNT_JSON"]
@@ -96,6 +97,32 @@ def adjust_color_hue(color, factor=0.5):
     r, g, b = [min(255, max(0, x)) for x in (r, g, b)]
     return f'#{r:02x}{g:02x}{b:02x}'
 
+def create_heatmap(conference, nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab):
+    if conference == 'NFC':
+        data = nfc_vs_nfc_win_crosstab
+        title = "NFC Wins by Each Team Against NFC Opponents 2017-2024"
+        cmap = "Blues"
+    else:  # AFC
+        data = afc_vs_afc_win_crosstab
+        title = "AFC Wins by Each Team Against AFC Opponents 2017-2024"
+        cmap = "Reds"
+    
+    fig, ax = plt.subplots(figsize=(12, 10))
+    sns.heatmap(data, annot=True, fmt="d", cmap=cmap, linewidths=0.5, ax=ax)
+    
+    ax.set_title(title)
+    ax.set_xlabel("Opponent")
+    ax.set_ylabel("Winner")
+    return fig
+
+def load_heatmap_data():
+    # Load the heatmap data from your JSON file
+    with open('football_team_stats.json', 'r') as f:
+        data = json.load(f)
+    nfc_vs_nfc_win_crosstab = pd.DataFrame(data['nfc_heatmap_data'])
+    afc_vs_afc_win_crosstab = pd.DataFrame(data['afc_heatmap_data'])
+    return nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab
+
 def main():
     global all_team_stats
     
@@ -135,7 +162,7 @@ def main():
         df = pd.DataFrame(team_data)
         st.write(f"Wins, Losses, and Win Percentage by year for {team_name}")
     
-         # Display the DataFrame without the index column
+        # Display the DataFrame without the index column
         st.dataframe(df, use_container_width=True, hide_index=True)
 
     # Second column of the second row: Prepare and display the chart
@@ -160,6 +187,15 @@ def main():
         ax.legend()
         plt.tight_layout()
         st.pyplot(fig)
+
+    # New section for heatmap
+    st.header("Conference Heatmap")
+    conference = st.radio("Select a conference:", ("AFC", "NFC"))
+    
+    nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab = load_heatmap_data()
+    
+    heatmap_fig = create_heatmap(conference, nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab)
+    st.pyplot(heatmap_fig)
 
 if __name__ == "__main__":
     main()
