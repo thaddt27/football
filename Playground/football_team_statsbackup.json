@@ -44,15 +44,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 8,
+      "Total_Wins": 7,
       "Total_Losses": 1,
-      "Win_Percentage": "89%"
+      "Win_Percentage": "88%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 57,
+      "Total_Wins": 56,
       "Total_Losses": 70,
-      "Win_Percentage": "45%"
+      "Win_Percentage": "44%"
     }
   ],
   "Packers": [
@@ -157,13 +157,13 @@
     {
       "Season": "2024",
       "Total_Wins": 4,
-      "Total_Losses": 5,
-      "Win_Percentage": "44%"
+      "Total_Losses": 4,
+      "Win_Percentage": "50%"
     },
     {
       "Season": "Total",
       "Total_Wins": 53,
-      "Total_Losses": 73,
+      "Total_Losses": 72,
       "Win_Percentage": "42%"
     }
   ],
@@ -212,13 +212,13 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 7,
+      "Total_Wins": 6,
       "Total_Losses": 2,
-      "Win_Percentage": "78%"
+      "Win_Percentage": "75%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 75,
+      "Total_Wins": 74,
       "Total_Losses": 54,
       "Win_Percentage": "58%"
     }
@@ -269,13 +269,13 @@
     {
       "Season": "2024",
       "Total_Wins": 3,
-      "Total_Losses": 6,
-      "Win_Percentage": "33%"
+      "Total_Losses": 5,
+      "Win_Percentage": "38%"
     },
     {
       "Season": "Total",
       "Total_Wins": 74,
-      "Total_Losses": 56,
+      "Total_Losses": 55,
       "Win_Percentage": "57%"
     }
   ],
@@ -325,14 +325,14 @@
     {
       "Season": "2024",
       "Total_Wins": 2,
-      "Total_Losses": 8,
-      "Win_Percentage": "20%"
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
     },
     {
       "Season": "Total",
       "Total_Wins": 40,
-      "Total_Losses": 87,
-      "Win_Percentage": "31%"
+      "Total_Losses": 86,
+      "Win_Percentage": "32%"
     }
   ],
   "Eagles": [
@@ -380,15 +380,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 7,
+      "Total_Wins": 6,
       "Total_Losses": 2,
-      "Win_Percentage": "78%"
+      "Win_Percentage": "75%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 82,
+      "Total_Wins": 81,
       "Total_Losses": 53,
-      "Win_Percentage": "61%"
+      "Win_Percentage": "60%"
     }
   ],
   "Commanders": [
@@ -437,13 +437,13 @@
     {
       "Season": "2024",
       "Total_Wins": 7,
-      "Total_Losses": 3,
-      "Win_Percentage": "70%"
+      "Total_Losses": 2,
+      "Win_Percentage": "78%"
     },
     {
       "Season": "Total",
       "Total_Wins": 50,
-      "Total_Losses": 76,
+      "Total_Losses": 75,
       "Win_Percentage": "40%"
     }
   ],
@@ -492,15 +492,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 5,
+      "Total_Wins": 4,
       "Total_Losses": 4,
-      "Win_Percentage": "56%"
+      "Win_Percentage": "50%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 77,
+      "Total_Wins": 76,
       "Total_Losses": 59,
-      "Win_Percentage": "57%"
+      "Win_Percentage": "56%"
     }
   ],
   "Seahawks": [
@@ -605,13 +605,13 @@
     {
       "Season": "2024",
       "Total_Wins": 4,
-      "Total_Losses": 5,
-      "Win_Percentage": "44%"
+      "Total_Losses": 4,
+      "Win_Percentage": "50%"
     },
     {
       "Season": "Total",
       "Total_Wins": 81,
-      "Total_Losses": 54,
+      "Total_Losses": 53,
       "Win_Percentage": "60%"
     }
   ],
@@ -660,15 +660,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 6,
+      "Total_Wins": 5,
       "Total_Losses": 4,
-      "Win_Percentage": "60%"
+      "Win_Percentage": "56%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 49,
+      "Total_Wins": 48,
       "Total_Losses": 77,
-      "Win_Percentage": "39%"
+      "Win_Percentage": "38%"
     }
   ],
   "Saints": [
@@ -716,15 +716,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 3,
+      "Total_Wins": 2,
       "Total_Losses": 7,
-      "Win_Percentage": "30%"
+      "Win_Percentage": "22%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 80,
+      "Total_Wins": 79,
       "Total_Losses": 52,
-      "Win_Percentage": "61%"
+      "Win_Percentage": "60%"
     }
   ],
   "Falcons": [
@@ -773,13 +773,13 @@
     {
       "Season": "2024",
       "Total_Wins": 6,
-      "Total_Losses": 4,
-      "Win_Percentage": "60%"
+      "Total_Losses": 3,
+      "Win_Percentage": "67%"
     },
     {
       "Season": "Total",
       "Total_Wins": 56,
-      "Total_Losses": 71,
+      "Total_Losses": 70,
       "Win_Percentage": "44%"
     }
   ],
@@ -828,15 +828,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 3,
+      "Total_Wins": 2,
       "Total_Losses": 7,
-      "Win_Percentage": "30%"
+      "Win_Percentage": "22%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 45,
+      "Total_Wins": 44,
       "Total_Losses": 81,
-      "Win_Percentage": "36%"
+      "Win_Percentage": "35%"
     }
   ],
   "Buccaneers": [
@@ -885,13 +885,13 @@
     {
       "Season": "2024",
       "Total_Wins": 4,
-      "Total_Losses": 6,
-      "Win_Percentage": "40%"
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
     },
     {
       "Season": "Total",
       "Total_Wins": 68,
-      "Total_Losses": 66,
+      "Total_Losses": 65,
       "Win_Percentage": "51%"
     }
   ],
@@ -940,13 +940,13 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 8,
+      "Total_Wins": 7,
       "Total_Losses": 2,
-      "Win_Percentage": "80%"
+      "Win_Percentage": "78%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 86,
+      "Total_Wins": 85,
       "Total_Losses": 50,
       "Win_Percentage": "63%"
     }
@@ -996,15 +996,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 3,
+      "Total_Wins": 2,
       "Total_Losses": 6,
-      "Win_Percentage": "33%"
+      "Win_Percentage": "25%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 60,
+      "Total_Wins": 59,
       "Total_Losses": 66,
-      "Win_Percentage": "48%"
+      "Win_Percentage": "47%"
     }
   ],
   "Patriots": [
@@ -1052,13 +1052,13 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 3,
+      "Total_Wins": 2,
       "Total_Losses": 7,
-      "Win_Percentage": "30%"
+      "Win_Percentage": "22%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 73,
+      "Total_Wins": 72,
       "Total_Losses": 60,
       "Win_Percentage": "55%"
     }
@@ -1109,13 +1109,13 @@
     {
       "Season": "2024",
       "Total_Wins": 3,
-      "Total_Losses": 7,
-      "Win_Percentage": "30%"
+      "Total_Losses": 6,
+      "Win_Percentage": "33%"
     },
     {
       "Season": "Total",
       "Total_Wins": 39,
-      "Total_Losses": 86,
+      "Total_Losses": 85,
       "Win_Percentage": "31%"
     }
   ],
@@ -1164,15 +1164,15 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 7,
+      "Total_Wins": 6,
       "Total_Losses": 3,
-      "Win_Percentage": "70%"
+      "Win_Percentage": "67%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 84,
+      "Total_Wins": 83,
       "Total_Losses": 48,
-      "Win_Percentage": "64%"
+      "Win_Percentage": "63%"
     }
   ],
   "Steelers": [
@@ -1220,13 +1220,13 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 7,
+      "Total_Wins": 6,
       "Total_Losses": 2,
-      "Win_Percentage": "78%"
+      "Win_Percentage": "75%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 77,
+      "Total_Wins": 76,
       "Total_Losses": 51,
       "Win_Percentage": "60%"
     }
@@ -1277,13 +1277,13 @@
     {
       "Season": "2024",
       "Total_Wins": 4,
-      "Total_Losses": 6,
-      "Win_Percentage": "40%"
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
     },
     {
       "Season": "Total",
       "Total_Wins": 59,
-      "Total_Losses": 73,
+      "Total_Losses": 72,
       "Win_Percentage": "45%"
     }
   ],
@@ -1389,13 +1389,13 @@
     {
       "Season": "2024",
       "Total_Wins": 6,
-      "Total_Losses": 4,
-      "Win_Percentage": "60%"
+      "Total_Losses": 3,
+      "Win_Percentage": "67%"
     },
     {
       "Season": "Total",
       "Total_Wins": 54,
-      "Total_Losses": 76,
+      "Total_Losses": 75,
       "Win_Percentage": "42%"
     }
   ],
@@ -1445,13 +1445,13 @@
     {
       "Season": "2024",
       "Total_Wins": 2,
-      "Total_Losses": 8,
-      "Win_Percentage": "20%"
+      "Total_Losses": 7,
+      "Win_Percentage": "22%"
     },
     {
       "Season": "Total",
       "Total_Wins": 48,
-      "Total_Losses": 82,
+      "Total_Losses": 81,
       "Win_Percentage": "37%"
     }
   ],
@@ -1501,13 +1501,13 @@
     {
       "Season": "2024",
       "Total_Wins": 2,
-      "Total_Losses": 7,
-      "Win_Percentage": "22%"
+      "Total_Losses": 6,
+      "Win_Percentage": "25%"
     },
     {
       "Season": "Total",
       "Total_Wins": 68,
-      "Total_Losses": 63,
+      "Total_Losses": 62,
       "Win_Percentage": "52%"
     }
   ],
@@ -1557,13 +1557,13 @@
     {
       "Season": "2024",
       "Total_Wins": 4,
-      "Total_Losses": 6,
-      "Win_Percentage": "40%"
+      "Total_Losses": 5,
+      "Win_Percentage": "44%"
     },
     {
       "Season": "Total",
       "Total_Wins": 59,
-      "Total_Losses": 69,
+      "Total_Losses": 68,
       "Win_Percentage": "46%"
     }
   ],
@@ -1612,13 +1612,13 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 6,
+      "Total_Wins": 5,
       "Total_Losses": 3,
-      "Win_Percentage": "67%"
+      "Win_Percentage": "62%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 64,
+      "Total_Wins": 63,
       "Total_Losses": 63,
       "Win_Percentage": "50%"
     }
@@ -1724,13 +1724,13 @@
     },
     {
       "Season": "2024",
-      "Total_Wins": 9,
+      "Total_Wins": 8,
       "Total_Losses": 0,
       "Win_Percentage": "100%"
     },
     {
       "Season": "Total",
-      "Total_Wins": 109,
+      "Total_Wins": 108,
       "Total_Losses": 34,
       "Win_Percentage": "76%"
     }
@@ -1781,14 +1781,14 @@
     {
       "Season": "2024",
       "Total_Wins": 5,
-      "Total_Losses": 5,
-      "Win_Percentage": "50%"
+      "Total_Losses": 4,
+      "Win_Percentage": "56%"
     },
     {
       "Season": "Total",
       "Total_Wins": 48,
-      "Total_Losses": 77,
-      "Win_Percentage": "38%"
+      "Total_Losses": 76,
+      "Win_Percentage": "39%"
     }
   ],
   "nfc_heatmap_data": {
@@ -1829,7 +1829,7 @@
       "Vikings": 8
     },
     "Buccaneers": {
-      "49ers": 4,
+      "49ers": 3,
       "Bears": 2,
       "Buccaneers": 0,
       "Cardinals": 1,
@@ -1889,7 +1889,7 @@
       "Cardinals": 3,
       "Commanders": 4,
       "Cowboys": 0,
-      "Eagles": 6,
+      "Eagles": 5,
       "Falcons": 2,
       "Giants": 1,
       "Lions": 1,
@@ -1932,7 +1932,7 @@
       "Packers": 2,
       "Panthers": 5,
       "Rams": 2,
-      "Saints": 11,
+      "Saints": 10,
       "Seahawks": 3,
       "Vikings": 3
     },
@@ -1948,7 +1948,7 @@
       "Giants": 0,
       "Lions": 3,
       "Packers": 1,
-      "Panthers": 2,
+      "Panthers": 1,
       "Rams": 4,
       "Saints": 2,
       "Seahawks": 3,
@@ -2095,7 +2095,7 @@
       "Jets": 1,
       "Patriots": 2,
       "Raiders": 1,
-      "Ravens": 11,
+      "Ravens": 10,
       "Steelers": 10,
       "Texans": 2,
       "Titans": 2
@@ -2124,7 +2124,7 @@
       "Broncos": 0,
       "Browns": 2,
       "Chargers": 6,
-      "Chiefs": 14,
+      "Chiefs": 13,
       "Colts": 2,
       "Dolphins": 2,
       "Jaguars": 1,
@@ -2192,7 +2192,7 @@
     },
     "Colts": {
       "Bengals": 3,
-      "Bills": 3,
+      "Bills": 2,
       "Broncos": 1,
       "Browns": 2,
       "Chargers": 2,
@@ -2357,7 +2357,7 @@
       "Bills": 4,
       "Broncos": 1,
       "Browns": 2,
-      "Chargers": 3,
+      "Chargers": 2,
       "Chiefs": 2,
       "Colts": 7,
       "Dolphins": 2,
