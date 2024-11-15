@@ -1,3 +1,5 @@
+#Tried to make the end tables longer, but the df cuts the weeks off at 16 for some reason
+
 import pandas as pd
 import streamlit as st
 from google.oauth2 import service_account
@@ -6,7 +8,6 @@ import matplotlib.pyplot as plt
 import json
 import requests
 from io import BytesIO
-from streamlit_extras.row import row
 import seaborn as sns
 
 # Load the service account credentials from Streamlit secrets
@@ -17,27 +18,17 @@ creds = service_account.Credentials.from_service_account_info(service_account_in
 service = build('sheets', 'v4', credentials=creds)
 
 # The ID of your Google Sheet
-SPREADSHEET_ID = '1c6zyNC7aii8osjSWPjHbOh0bc7b-EsWJKPKH5lqjXPc'  # Replace with your actual spreadsheet ID
+SPREADSHEET_ID = '1c6zyNC7aii8osjSWPjHbOh0bc7b-EsWJKPKH5lqjXPc'
+RANGE_NAME = 'Sheet1!A1:T5000'
 
-# Specify the range of data you want to access
-RANGE_NAME = 'Sheet1!A1:T5000'  # Adjust based on your actual sheet name and range
+# Load JSON data for both apps
+with open('football_team_stats.json', 'r') as f:
+    all_team_stats = json.load(f)
 
+with open('team_season_stats.json') as f:
+    data2 = json.load(f)
 
-def get_sheet_data(sheet_name):
-    # Call the Sheets API
-    sheet = service.spreadsheets()
-    result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
-    values = result.get('values', [])
-
-    if not values:
-        st.error('No data found in the Google Sheet.')
-        return None
-
-    # Convert the data to a pandas DataFrame
-    df = pd.DataFrame(values[1:], columns=values[0])
-    return df
-
-# Team logos dictionary (replace with actual URLs)
+# Team logos dictionary 
 team_logos = {
     'Packers': 'https://drive.google.com/uc?export=view&id=144CQLI5f-_azRj2UccO_BBU972I6VRwG',
     'Texans': 'https://drive.google.com/uc?export=view&id=1468FtlvR4PUyewCfSDY97bC-jueSejsL',
@@ -73,6 +64,7 @@ team_logos = {
     'Commanders': 'https://drive.google.com/uc?export=view&id=15zChouLg0YRlZQtHC9RQI4NSrB-YjWOq',
 }
 
+
 # Define base colors for teams
 base_colors = {
     'Cardinals': '#97233F', 'Falcons': '#A71930', 'Ravens': '#241773',
@@ -88,12 +80,20 @@ base_colors = {
     'Titans': '#0C2340', 'Commanders': '#5A1414'
 }
 
+
+def get_sheet_data(sheet_name):
+    sheet = service.spreadsheets()
+    result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
+    values = result.get('values', [])
+    if not values:
+        st.error('No data found in the Google Sheet.')
+        return None
+    return pd.DataFrame(values[1:], columns=values[0])
+
 def adjust_color_hue(color, factor=0.5):
     color = color.lstrip('#')
     r, g, b = int(color[:2], 16), int(color[2:4], 16), int(color[4:], 16)
-    r = int(r + (255 - r) * factor)
-    g = int(g + (255 - g) * factor)
-    b = int(b + (255 - b) * factor)
+    r, g, b = [int(x + (255 - x) * factor) for x in (r, g, b)]
     r, g, b = [min(255, max(0, x)) for x in (r, g, b)]
     return f'#{r:02x}{g:02x}{b:02x}'
 
@@ -102,84 +102,107 @@ def create_heatmap(conference, nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab)
         data = nfc_vs_nfc_win_crosstab
         title = "NFC Wins by Each Team Against NFC Opponents 2017-2024"
         cmap = "Blues"
-    else:  # AFC
+    else:
         data = afc_vs_afc_win_crosstab
         title = "AFC Wins by Each Team Against AFC Opponents 2017-2024"
         cmap = "Reds"
-    
+
     fig, ax = plt.subplots(figsize=(12, 10))
     sns.heatmap(data, annot=True, fmt="d", cmap=cmap, linewidths=0.5, ax=ax)
-    
     ax.set_title(title)
     ax.set_xlabel("Opponent")
     ax.set_ylabel("Winner")
     return fig
 
 def load_heatmap_data():
-    # Load the heatmap data from your JSON file
     with open('football_team_stats.json', 'r') as f:
         data = json.load(f)
     nfc_vs_nfc_win_crosstab = pd.DataFrame(data['nfc_heatmap_data'])
     afc_vs_afc_win_crosstab = pd.DataFrame(data['afc_heatmap_data'])
     return nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab
 
-def main():
-    global all_team_stats
+def plot_combined_win_percentage(season_data_1, season_data_2, selected_team, selected_season_1, selected_season_2):
+    weeks_1 = [item['Week'] for item in season_data_1]
+    win_percentage_1 = [item['Win %'] for item in season_data_1]
     
-    st.set_page_config(layout="wide")  # Set layout to wide for better visibility
+    weeks_2 = [item['Week'] for item in season_data_2]
+    win_percentage_2 = [item['Win %'] for item in season_data_2]
 
-    # Load data from JSON file for team stats at the start of main()
-    with open('football_team_stats.json', 'r') as f:
-        all_team_stats = json.load(f)
+    fig, ax = plt.subplots(figsize=(10, 5))
+    
+    # Plotting the first season's data
+    ax.fill_between(weeks_1, win_percentage_1, color='skyblue', alpha=0.4, label=f'{selected_season_1} Win %')
+    line1 = ax.plot(weeks_1, win_percentage_1, marker='o', color='navy', linewidth=2)[0]
 
-    # Create a layout with spacer columns for simulated left alignment
-    spacer1, col1, spacer2, col2, col3, spacer3 = st.columns([0.5, 1, 0.4, 2, 1, 0.1], vertical_alignment="bottom")
+    # Plotting the second season's data
+    ax.fill_between(weeks_2, win_percentage_2, color='lightgreen', alpha=0.4, label=f'{selected_season_2} Win %')
+    line2 = ax.plot(weeks_2, win_percentage_2, marker='o', color='darkgreen', linewidth=2)[0]
+    
+    # Adding text overlays for win percentages
+    for i, txt in enumerate(win_percentage_1):
+        ax.annotate(f'{txt}%', (weeks_1[i], win_percentage_1[i]), 
+                    xytext=(0, -18), textcoords='offset points', 
+                    ha='center', va='bottom', color='navy', fontsize=8)
+    
+    for i, txt in enumerate(win_percentage_2):
+        ax.annotate(f'{txt}%', (weeks_2[i], win_percentage_2[i]), 
+                    xytext=(0, -8), textcoords='offset points', 
+                    ha='center', va='bottom', color='darkgreen', fontsize=8)
+        
 
-    # First column: Title
-    with col1:
-        st.title("Football Team Dashboard")
+    ax.set_title(f'{selected_team} Win % Trend Comparison: {selected_season_1} vs {selected_season_2}', fontsize=16)
+    ax.set_xlabel('Week', fontsize=12)
+    ax.set_ylabel('Win %', fontsize=12)
+    ax.set_ylim(0, 100)
+    ax.set_xlim(1, max(max(weeks_1), max(weeks_2)))
+    ax.set_xticks(range(1, max(max(weeks_1), max(weeks_2)) + 1))
+    ax.grid(True, linestyle='--', alpha=0.7)
+    ax.legend()
 
-    # Second column: Selectbox for choosing the team
+    # Adjust layout to prevent clipping of labels
+    plt.tight_layout()
+
+    return fig
+
+def main():
+    st.set_page_config(layout="wide")
+    
+    st.title("NFL Team Statistics Dashboard")
+
+    # First app content
+    spacer1, col1, spacer2, col2, col3, spacer3 = st.columns([0.5, 1, 0.4, 2, 1, 0.1])
+    
     with col2:
-        team_name = st.selectbox("Select a team:", sorted(all_team_stats.keys()))
-
-    # Third column: Team logo display
+        team_name = st.selectbox("Select a team for overall stats:", sorted(all_team_stats.keys()))
+    
     with col3:
         if team_name in team_logos:
             try:
                 response = requests.get(team_logos[team_name])
                 img = BytesIO(response.content)
-                st.image(img, width=100)  # Adjust width as needed
+                st.image(img, width=100)
             except Exception as e:
                 st.error(f"Error loading team logo: {e}")
-
-    # Spacer columns ensure content is positioned as needed
+    
     spacer3, col4, col5, spacer4 = st.columns([0.5, 3, 5, 0.5])
-
-    # First column of the second row: Display team data
+    
     with col4:
         team_data = all_team_stats[team_name]
         df = pd.DataFrame(team_data)
         st.write(f"Wins, Losses, and Win Percentage by year for {team_name}")
-    
-        # Display the DataFrame without the index column
         st.dataframe(df, use_container_width=True, hide_index=True)
-
-    # Second column of the second row: Prepare and display the chart
+    
     with col5:
         plot_data = df[df['Season'] != 'Total']
         fig, ax = plt.subplots(figsize=(10, 5))
-
         team_color = base_colors.get(team_name, '#000000')
         ax.bar(plot_data['Season'], plot_data['Win_Percentage'].str.rstrip('%').astype(int),
                color=team_color, label='Win Percentage')
         ax.plot(plot_data['Season'], plot_data['Total_Wins'],
                 color='r', marker='o', label='Team Wins')
-
         for i, row in plot_data.iterrows():
             ax.text(row['Season'], row['Total_Wins'] + 1, str(row['Total_Wins']),
                     color='black', ha='center', va='bottom')
-
         ax.set_title(f"{team_name} Performance by Season")
         ax.set_xlabel('Season')
         ax.set_ylabel('Performance Metrics')
@@ -187,15 +210,52 @@ def main():
         ax.legend()
         plt.tight_layout()
         st.pyplot(fig)
-
-    # New section for heatmap
+    
     st.header("Conference Heatmap")
     conference = st.radio("Select a conference:", ("AFC", "NFC"))
-    
     nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab = load_heatmap_data()
-    
     heatmap_fig = create_heatmap(conference, nfc_vs_nfc_win_crosstab, afc_vs_afc_win_crosstab)
     st.pyplot(heatmap_fig)
+
+    # Second app content
+    st.header("Season Comparison")
+    
+    teams = list(data2.keys())
+    selected_team = st.selectbox("Select Team for Comparison", sorted(teams))
+    
+    seasons = list(data2[selected_team].keys())
+    col6, col7 = st.columns(2)
+    with col6:
+        selected_season_1 = st.selectbox("Select Season 1", seasons)
+    with col7:
+        selected_season_2 = st.selectbox("Select Season 2", seasons)
+    
+    season_data_1 = data2[selected_team][selected_season_1]
+    season_data_2 = data2[selected_team][selected_season_2]
+    
+    if season_data_1 and season_data_2:
+        fig = plot_combined_win_percentage(season_data_1, season_data_2, selected_team, selected_season_1, selected_season_2)
+        st.pyplot(fig)
+    
+    def calculate_height(df):
+        return min(len(df) * 35 + 38, 800)  # Adjust multiplier and max height as needed
+
+    col8, col9 = st.columns(2)
+
+    with col8:
+        if season_data_1:
+            st.write(f"Statistics for {selected_team} in {selected_season_1}:")
+            df1 = pd.DataFrame(season_data_1)
+            height1 = calculate_height(df1)
+            st.dataframe(df1, use_container_width=True, height=height1, hide_index=True)
+
+    with col9:
+        if season_data_2:
+            st.write(f"Statistics for {selected_team} in {selected_season_2}:")
+            df2 = pd.DataFrame(season_data_2)
+            height2 = calculate_height(df2)
+            st.dataframe(df2, use_container_width=True, height=height2, hide_index=True)
+
 
 if __name__ == "__main__":
     main()
