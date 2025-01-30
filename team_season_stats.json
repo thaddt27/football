@@ -1444,6 +1444,16 @@
                 "Cumulative Wins": 15,
                 "Total Games": 17,
                 "Win %": 88.2
+            },
+            {
+                "Season": "2024",
+                "Lions Win": 0,
+                "Lions Loss": 1,
+                "Week": 19,
+                "Opponent": "Commanders",
+                "Cumulative Wins": 15,
+                "Total Games": 18,
+                "Win %": 83.3
             }
         ]
     },
@@ -2932,6 +2942,16 @@
                 "Cumulative Wins": 11,
                 "Total Games": 17,
                 "Win %": 64.7
+            },
+            {
+                "Season": "2024",
+                "Packers Win": 0,
+                "Packers Loss": 1,
+                "Week": 19,
+                "Opponent": "Eagles",
+                "Cumulative Wins": 11,
+                "Total Games": 18,
+                "Win %": 61.1
             }
         ]
     },
@@ -5838,6 +5858,16 @@
                 "Cumulative Wins": 14,
                 "Total Games": 17,
                 "Win %": 82.4
+            },
+            {
+                "Season": "2024",
+                "Vikings Win": 0,
+                "Vikings Loss": 1,
+                "Week": 19,
+                "Opponent": "Rams",
+                "Cumulative Wins": 14,
+                "Total Games": 18,
+                "Win %": 77.8
             }
         ]
     },
@@ -10282,6 +10312,36 @@
                 "Cumulative Wins": 14,
                 "Total Games": 17,
                 "Win %": 82.4
+            },
+            {
+                "Season": "2024",
+                "Eagles Win": 1,
+                "Eagles Loss": 0,
+                "Week": 19,
+                "Opponent": "Packers",
+                "Cumulative Wins": 15,
+                "Total Games": 18,
+                "Win %": 83.3
+            },
+            {
+                "Season": "2024",
+                "Eagles Win": 1,
+                "Eagles Loss": 0,
+                "Week": 20,
+                "Opponent": "Rams",
+                "Cumulative Wins": 16,
+                "Total Games": 19,
+                "Win %": 84.2
+            },
+            {
+                "Season": "2024",
+                "Eagles Win": 1,
+                "Eagles Loss": 0,
+                "Week": 21,
+                "Opponent": "Commanders",
+                "Cumulative Wins": 17,
+                "Total Games": 20,
+                "Win %": 85.0
             }
         ]
     },
@@ -11690,6 +11750,36 @@
                 "Cumulative Wins": 12,
                 "Total Games": 17,
                 "Win %": 70.6
+            },
+            {
+                "Season": "2024",
+                "Commanders Win": 1,
+                "Commanders Loss": 0,
+                "Week": 19,
+                "Opponent": "Buccaneers",
+                "Cumulative Wins": 13,
+                "Total Games": 18,
+                "Win %": 72.2
+            },
+            {
+                "Season": "2024",
+                "Commanders Win": 1,
+                "Commanders Loss": 0,
+                "Week": 20,
+                "Opponent": "Lions",
+                "Cumulative Wins": 14,
+                "Total Games": 19,
+                "Win %": 73.7
+            },
+            {
+                "Season": "2024",
+                "Commanders Win": 0,
+                "Commanders Loss": 1,
+                "Week": 21,
+                "Opponent": "Eagles",
+                "Cumulative Wins": 14,
+                "Total Games": 20,
+                "Win %": 70.0
             }
         ]
     },
@@ -16224,6 +16314,26 @@
                 "Cumulative Wins": 10,
                 "Total Games": 17,
                 "Win %": 58.8
+            },
+            {
+                "Season": "2024",
+                "Rams Win": 1,
+                "Rams Loss": 0,
+                "Week": 19,
+                "Opponent": "Vikings",
+                "Cumulative Wins": 11,
+                "Total Games": 18,
+                "Win %": 61.1
+            },
+            {
+                "Season": "2024",
+                "Rams Win": 0,
+                "Rams Loss": 1,
+                "Week": 20,
+                "Opponent": "Eagles",
+                "Cumulative Wins": 11,
+                "Total Games": 19,
+                "Win %": 57.9
             }
         ]
     },
@@ -23514,6 +23624,16 @@
                 "Cumulative Wins": 10,
                 "Total Games": 17,
                 "Win %": 58.8
+            },
+            {
+                "Season": "2024",
+                "Buccaneers Win": 0,
+                "Buccaneers Loss": 1,
+                "Week": 19,
+                "Opponent": "Commanders",
+                "Cumulative Wins": 10,
+                "Total Games": 18,
+                "Win %": 55.6
             }
         ]
     },
@@ -25042,6 +25162,36 @@
                 "Cumulative Wins": 13,
                 "Total Games": 17,
                 "Win %": 76.5
+            },
+            {
+                "Season": "2024",
+                "Bills Win": 1,
+                "Bills Loss": 0,
+                "Week": 19,
+                "Opponent": "Broncos",
+                "Cumulative Wins": 14,
+                "Total Games": 18,
+                "Win %": 77.8
+            },
+            {
+                "Season": "2024",
+                "Bills Win": 1,
+                "Bills Loss": 0,
+                "Week": 20,
+                "Opponent": "Ravens",
+                "Cumulative Wins": 15,
+                "Total Games": 19,
+                "Win %": 78.9
+            },
+            {
+                "Season": "2024",
+                "Bills Win": 0,
+                "Bills Loss": 1,
+                "Week": 21,
+                "Opponent": "Chiefs",
+                "Cumulative Wins": 15,
+                "Total Games": 20,
+                "Win %": 75.0
             }
         ]
     },
@@ -30884,6 +31034,26 @@
                 "Cumulative Wins": 12,
                 "Total Games": 17,
                 "Win %": 70.6
+            },
+            {
+                "Season": "2024",
+                "Ravens Win": 1,
+                "Ravens Loss": 0,
+                "Week": 19,
+                "Opponent": "Steelers",
+                "Cumulative Wins": 13,
+                "Total Games": 18,
+                "Win %": 72.2
+            },
+            {
+                "Season": "2024",
+                "Ravens Win": 0,
+                "Ravens Loss": 1,
+                "Week": 20,
+                "Opponent": "Bills",
+                "Cumulative Wins": 13,
+                "Total Games": 19,
+                "Win %": 68.4
             }
         ]
     },
@@ -32342,6 +32512,16 @@
                 "Cumulative Wins": 10,
                 "Total Games": 17,
                 "Win %": 58.8
+            },
+            {
+                "Season": "2024",
+                "Steelers Win": 0,
+                "Steelers Loss": 1,
+                "Week": 19,
+                "Opponent": "Ravens",
+                "Cumulative Wins": 10,
+                "Total Games": 18,
+                "Win %": 55.6
             }
         ]
     },
@@ -36746,6 +36926,26 @@
                 "Cumulative Wins": 10,
                 "Total Games": 17,
                 "Win %": 58.8
+            },
+            {
+                "Season": "2024",
+                "Texans Win": 1,
+                "Texans Loss": 0,
+                "Week": 19,
+                "Opponent": "Chargers",
+                "Cumulative Wins": 11,
+                "Total Games": 18,
+                "Win %": 61.1
+            },
+            {
+                "Season": "2024",
+                "Texans Win": 0,
+                "Texans Loss": 1,
+                "Week": 20,
+                "Opponent": "Chiefs",
+                "Cumulative Wins": 11,
+                "Total Games": 19,
+                "Win %": 57.9
             }
         ]
     },
@@ -42598,6 +42798,16 @@
                 "Cumulative Wins": 11,
                 "Total Games": 17,
                 "Win %": 64.7
+            },
+            {
+                "Season": "2024",
+                "Chargers Win": 0,
+                "Chargers Loss": 1,
+                "Week": 19,
+                "Opponent": "Texans",
+                "Cumulative Wins": 11,
+                "Total Games": 18,
+                "Win %": 61.1
             }
         ]
     },
@@ -45634,6 +45844,26 @@
                 "Cumulative Wins": 15,
                 "Total Games": 17,
                 "Win %": 88.2
+            },
+            {
+                "Season": "2024",
+                "Chiefs Win": 1,
+                "Chiefs Loss": 0,
+                "Week": 19,
+                "Opponent": "Texans",
+                "Cumulative Wins": 16,
+                "Total Games": 18,
+                "Win %": 88.9
+            },
+            {
+                "Season": "2024",
+                "Chiefs Win": 1,
+                "Chiefs Loss": 0,
+                "Week": 20,
+                "Opponent": "Bills",
+                "Cumulative Wins": 17,
+                "Total Games": 19,
+                "Win %": 89.5
             }
         ]
     },
@@ -47052,6 +47282,16 @@
                 "Cumulative Wins": 10,
                 "Total Games": 17,
                 "Win %": 58.8
+            },
+            {
+                "Season": "2024",
+                "Broncos Win": 0,
+                "Broncos Loss": 1,
+                "Week": 19,
+                "Opponent": "Bills",
+                "Cumulative Wins": 10,
+                "Total Games": 18,
+                "Win %": 55.6
             }
         ]
     }
