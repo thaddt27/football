@@ -1516,6 +1516,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Lions Win": 1,
+                "Lions Loss": 0,
+                "Week": 7,
+                "Opponent": "Buccaneers",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -3076,6 +3086,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 5,
                 "Win %": 60.0
+            },
+            {
+                "Season": "2025",
+                "Packers Win": 1,
+                "Packers Loss": 0,
+                "Week": 7,
+                "Opponent": "Cardinals",
+                "Cumulative Wins": 4,
+                "Total Games": 6,
+                "Win %": 66.7
             }
         ]
     },
@@ -4576,6 +4596,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 5,
                 "Win %": 60.0
+            },
+            {
+                "Season": "2025",
+                "Bears Win": 1,
+                "Bears Loss": 0,
+                "Week": 7,
+                "Opponent": "Saints",
+                "Cumulative Wins": 4,
+                "Total Games": 6,
+                "Win %": 66.7
             }
         ]
     },
@@ -6116,6 +6146,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 5,
                 "Win %": 60.0
+            },
+            {
+                "Season": "2025",
+                "Vikings Win": 0,
+                "Vikings Loss": 1,
+                "Week": 7,
+                "Opponent": "Eagles",
+                "Cumulative Wins": 3,
+                "Total Games": 6,
+                "Win %": 50.0
             }
         ]
     },
@@ -7656,6 +7696,16 @@
                 "Cumulative Wins": 2,
                 "Total Games": 6,
                 "Win %": 33.3
+            },
+            {
+                "Season": "2025",
+                "Cowboys Win": 1,
+                "Cowboys Loss": 0,
+                "Week": 7,
+                "Opponent": "Commanders",
+                "Cumulative Wins": 3,
+                "Total Games": 7,
+                "Win %": 42.9
             }
         ]
     },
@@ -9156,6 +9206,16 @@
                 "Cumulative Wins": 2,
                 "Total Games": 6,
                 "Win %": 33.3
+            },
+            {
+                "Season": "2025",
+                "Giants Win": 0,
+                "Giants Loss": 1,
+                "Week": 7,
+                "Opponent": "Broncos",
+                "Cumulative Wins": 2,
+                "Total Games": 7,
+                "Win %": 28.6
             }
         ]
     },
@@ -10786,6 +10846,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Eagles Win": 1,
+                "Eagles Loss": 0,
+                "Week": 7,
+                "Opponent": "Vikings",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -12286,6 +12356,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 6,
                 "Win %": 50.0
+            },
+            {
+                "Season": "2025",
+                "Commanders Win": 0,
+                "Commanders Loss": 1,
+                "Week": 7,
+                "Opponent": "Cowboys",
+                "Cumulative Wins": 3,
+                "Total Games": 7,
+                "Win %": 42.9
             }
         ]
     },
@@ -13886,6 +13966,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "49ers Win": 1,
+                "49ers Loss": 0,
+                "Week": 7,
+                "Opponent": "Falcons",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -15416,6 +15506,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Seahawks Win": 1,
+                "Seahawks Loss": 0,
+                "Week": 7,
+                "Opponent": "Texans",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -17026,6 +17126,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Rams Win": 1,
+                "Rams Loss": 0,
+                "Week": 7,
+                "Opponent": "Jaguars",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -18516,6 +18626,16 @@
                 "Cumulative Wins": 2,
                 "Total Games": 6,
                 "Win %": 33.3
+            },
+            {
+                "Season": "2025",
+                "Cardinals Win": 0,
+                "Cardinals Loss": 1,
+                "Week": 7,
+                "Opponent": "Packers",
+                "Cumulative Wins": 2,
+                "Total Games": 7,
+                "Win %": 28.6
             }
         ]
     },
@@ -20066,6 +20186,16 @@
                 "Cumulative Wins": 1,
                 "Total Games": 6,
                 "Win %": 16.7
+            },
+            {
+                "Season": "2025",
+                "Saints Win": 0,
+                "Saints Loss": 1,
+                "Week": 7,
+                "Opponent": "Bears",
+                "Cumulative Wins": 1,
+                "Total Games": 7,
+                "Win %": 14.3
             }
         ]
     },
@@ -21566,6 +21696,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 5,
                 "Win %": 60.0
+            },
+            {
+                "Season": "2025",
+                "Falcons Win": 0,
+                "Falcons Loss": 1,
+                "Week": 7,
+                "Opponent": "49ers",
+                "Cumulative Wins": 3,
+                "Total Games": 6,
+                "Win %": 50.0
             }
         ]
     },
@@ -23056,6 +23196,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 6,
                 "Win %": 50.0
+            },
+            {
+                "Season": "2025",
+                "Panthers Win": 1,
+                "Panthers Loss": 0,
+                "Week": 7,
+                "Opponent": "Jets",
+                "Cumulative Wins": 4,
+                "Total Games": 7,
+                "Win %": 57.1
             }
         ]
     },
@@ -24636,6 +24786,16 @@
                 "Cumulative Wins": 5,
                 "Total Games": 6,
                 "Win %": 83.3
+            },
+            {
+                "Season": "2025",
+                "Buccaneers Win": 0,
+                "Buccaneers Loss": 1,
+                "Week": 7,
+                "Opponent": "Lions",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -26256,6 +26416,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Bills Win": 0,
+                "Bills Loss": 0,
+                "Week": 7,
+                "Opponent": "BYE",
+                "Cumulative Wins": 4,
+                "Total Games": 6,
+                "Win %": 66.7
             }
         ]
     },
@@ -27756,6 +27926,16 @@
                 "Cumulative Wins": 1,
                 "Total Games": 6,
                 "Win %": 16.7
+            },
+            {
+                "Season": "2025",
+                "Dolphins Win": 0,
+                "Dolphins Loss": 1,
+                "Week": 7,
+                "Opponent": "Browns",
+                "Cumulative Wins": 1,
+                "Total Games": 7,
+                "Win %": 14.3
             }
         ]
     },
@@ -29316,6 +29496,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Patriots Win": 1,
+                "Patriots Loss": 0,
+                "Week": 7,
+                "Opponent": "Titans",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     },
@@ -30795,6 +30985,16 @@
                 "Opponent": "Broncos",
                 "Cumulative Wins": 0,
                 "Total Games": 6,
+                "Win %": 0.0
+            },
+            {
+                "Season": "2025",
+                "Jets Win": 0,
+                "Jets Loss": 1,
+                "Week": 7,
+                "Opponent": "Panthers",
+                "Cumulative Wins": 0,
+                "Total Games": 7,
                 "Win %": 0.0
             }
         ]
@@ -32366,6 +32566,16 @@
                 "Cumulative Wins": 1,
                 "Total Games": 6,
                 "Win %": 16.7
+            },
+            {
+                "Season": "2025",
+                "Ravens Win": 0,
+                "Ravens Loss": 0,
+                "Week": 7,
+                "Opponent": "BYE",
+                "Cumulative Wins": 1,
+                "Total Games": 6,
+                "Win %": 16.7
             }
         ]
     },
@@ -33896,6 +34106,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 5,
                 "Win %": 80.0
+            },
+            {
+                "Season": "2025",
+                "Steelers Win": 0,
+                "Steelers Loss": 1,
+                "Week": 7,
+                "Opponent": "Bengals",
+                "Cumulative Wins": 4,
+                "Total Games": 6,
+                "Win %": 66.7
             }
         ]
     },
@@ -35446,6 +35666,16 @@
                 "Cumulative Wins": 2,
                 "Total Games": 6,
                 "Win %": 33.3
+            },
+            {
+                "Season": "2025",
+                "Bengals Win": 1,
+                "Bengals Loss": 0,
+                "Week": 7,
+                "Opponent": "Steelers",
+                "Cumulative Wins": 3,
+                "Total Games": 7,
+                "Win %": 42.9
             }
         ]
     },
@@ -36956,6 +37186,16 @@
                 "Cumulative Wins": 1,
                 "Total Games": 6,
                 "Win %": 16.7
+            },
+            {
+                "Season": "2025",
+                "Browns Win": 1,
+                "Browns Loss": 0,
+                "Week": 7,
+                "Opponent": "Dolphins",
+                "Cumulative Wins": 2,
+                "Total Games": 7,
+                "Win %": 28.6
             }
         ]
     },
@@ -38506,6 +38746,16 @@
                 "Cumulative Wins": 2,
                 "Total Games": 5,
                 "Win %": 40.0
+            },
+            {
+                "Season": "2025",
+                "Texans Win": 0,
+                "Texans Loss": 1,
+                "Week": 7,
+                "Opponent": "Seahawks",
+                "Cumulative Wins": 2,
+                "Total Games": 6,
+                "Win %": 33.3
             }
         ]
     },
@@ -40036,6 +40286,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Jaguars Win": 0,
+                "Jaguars Loss": 1,
+                "Week": 7,
+                "Opponent": "Rams",
+                "Cumulative Wins": 4,
+                "Total Games": 7,
+                "Win %": 57.1
             }
         ]
     },
@@ -41586,6 +41846,16 @@
                 "Cumulative Wins": 1,
                 "Total Games": 6,
                 "Win %": 16.7
+            },
+            {
+                "Season": "2025",
+                "Titans Win": 0,
+                "Titans Loss": 1,
+                "Week": 7,
+                "Opponent": "Patriots",
+                "Cumulative Wins": 1,
+                "Total Games": 7,
+                "Win %": 14.3
             }
         ]
     },
@@ -43096,6 +43366,16 @@
                 "Cumulative Wins": 5,
                 "Total Games": 6,
                 "Win %": 83.3
+            },
+            {
+                "Season": "2025",
+                "Colts Win": 1,
+                "Colts Loss": 0,
+                "Week": 7,
+                "Opponent": "Chargers",
+                "Cumulative Wins": 6,
+                "Total Games": 7,
+                "Win %": 85.7
             }
         ]
     },
@@ -44616,6 +44896,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Chargers Win": 0,
+                "Chargers Loss": 1,
+                "Week": 7,
+                "Opponent": "Colts",
+                "Cumulative Wins": 4,
+                "Total Games": 7,
+                "Win %": 57.1
             }
         ]
     },
@@ -46106,6 +46396,16 @@
                 "Cumulative Wins": 2,
                 "Total Games": 6,
                 "Win %": 33.3
+            },
+            {
+                "Season": "2025",
+                "Raiders Win": 0,
+                "Raiders Loss": 1,
+                "Week": 7,
+                "Opponent": "Chiefs",
+                "Cumulative Wins": 2,
+                "Total Games": 7,
+                "Win %": 28.6
             }
         ]
     },
@@ -47806,6 +48106,16 @@
                 "Cumulative Wins": 3,
                 "Total Games": 6,
                 "Win %": 50.0
+            },
+            {
+                "Season": "2025",
+                "Chiefs Win": 1,
+                "Chiefs Loss": 0,
+                "Week": 7,
+                "Opponent": "Raiders",
+                "Cumulative Wins": 4,
+                "Total Games": 7,
+                "Win %": 57.1
             }
         ]
     },
@@ -49296,6 +49606,16 @@
                 "Cumulative Wins": 4,
                 "Total Games": 6,
                 "Win %": 66.7
+            },
+            {
+                "Season": "2025",
+                "Broncos Win": 1,
+                "Broncos Loss": 0,
+                "Week": 7,
+                "Opponent": "Giants",
+                "Cumulative Wins": 5,
+                "Total Games": 7,
+                "Win %": 71.4
             }
         ]
     }
